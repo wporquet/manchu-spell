@@ -1,4 +1,4 @@
-Aspell Manchu Dictonary
+Aspell Manchu Dictionary
 ================================
 
 How to build the dictionary package for distribution:
